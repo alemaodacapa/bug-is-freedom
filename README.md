@@ -1,4 +1,4 @@
-# bog-is-freedom
+# bug-is-freedom
 Um Manifesto sobre o Paradoxo Quântico
 
 # O Bug é Liberdade: Um Manifesto sobre o Paradoxo Quântico
