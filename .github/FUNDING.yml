@@ -1,0 +1,28 @@
+# These are supported funding model platforms
+
+github: [alemaodacapa] # Substitua pelos seus usernames no GitHub Sponsors (até 4)
+
+patreon: alemaodacapa # Substitua pelo seu username do Patreon
+
+open_collective: alemaodacapa # Substitua pelo seu username no Open Collective
+
+ko_fi: alemaodacapa # Substitua pelo seu username no Ko-fi
+
+tidelift: npm/meu-pacote # Substitua por plataforma/nome-do-pacote no Tidelift
+
+community_bridge: meu-projeto # Substitua pelo nome do seu projeto no Community Bridge
+
+liberapay: alemaodacapa # Substitua pelo seu username no Liberapay
+
+issuehunt: alemaodacapa # Substitua pelo seu username no IssueHunt
+
+lfx_crowdfunding: meu-projeto # Substitua pelo nome do projeto no LFX Crowdfunding
+
+polar: alemaodacapa # Substitua pelo seu username no Polar
+
+buy_me_a_coffee: alemaodacapa # Substitua pelo seu username no Buy Me a Coffee
+
+thanks_dev: alemaodacapa # Substitua pelo seu username no thanks.dev
+
+custom:
+  - https://social.x10.mx
